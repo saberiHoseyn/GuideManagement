@@ -1,0 +1,31 @@
+﻿@model GM.Core.Application.Contracts.GuideCategoryAgg.EditGuideCategoryModel
+@{
+    Layout = null;
+}
+
+<div class="modal-header d-flex justify-content-between">
+    <h4 class="modal-title">حذف گروه راهنمای: @Model.Name</h4>
+    <button type="button" class="close ml-0" data-dismiss="modal" aria-hidden="true">×</button>
+</div>
+
+<form asp-controller="GuideCategory" asp-action="Delete"
+      dir="rtl"
+      method="post"
+      data-ajax="true"
+      data-action="DeleteCategory"
+      enctype="multipart/form-data">
+    <div class="modal-body text-right">
+        <div class="modal-body">
+            <p>
+                با حذف این گروه راهنما دیگر دسترسی به اطلاعات آن نخواهید داشت!
+                <strong>میخواهید این گروه را حذف کنید؟</strong>
+            </p>
+        </div>
+        <input type="hidden" asp-for="Id" value="@Model.Id" />
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default waves-effect ml-1" data-dismiss="modal">بستن</button>
+            <button type="submit" class="btn btn-danger waves-effect waves-light">بله</button>
+        </div>
+
+    </div>
+</form>

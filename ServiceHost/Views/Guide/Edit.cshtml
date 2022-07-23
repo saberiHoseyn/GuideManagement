@@ -1,0 +1,66 @@
+﻿@model GM.Core.Application.Contracts.GuideAgg.EditGuideModel
+@{
+    Layout = null;
+}
+
+
+<div class="modal-header d-flex justify-content-between">
+    <h4 class="modal-title">ویرایش راهنمای: @Model.Title</h4>
+    <button type="button" class="close ml-0" data-dismiss="modal" aria-hidden="true">×</button>
+</div>
+
+<div class="modal-body">
+    <form asp-controller="Guide" asp-action="Edit"
+          dir="rtl"
+          method="post"
+          data-ajax="true"
+          data-callback=""
+          data-action="Refresh"
+          enctype="multipart/form-data">
+        <div class="text-right">
+            <div class="row">
+                <div class="col">
+                    <div class="form-group">
+                        <label asp-for="Title" class="control-label">عنوان</label>
+                        <input type="text" class="form-control" asp-for="Title">
+                        <span asp-validation-for="Title" class="error text-danger small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="form-group">
+                        <label asp-for="GuideCategoryId" class="control-label">گروه راهنما</label>
+                        <select class="form-control" asp-for="GuideCategoryId"
+                                asp-items='new SelectList(Model.GuideCategories, "Id", "Name")'>
+                            <option value="@Model.GuideCategoryId" disabled selected></option>
+                        </select>
+                        <span asp-validation-for="GuideCategoryId" class="error text-danger small"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="form-group no-margin">
+                        <label asp-for="Content" class="control-label">توضیحات</label>
+                        <div class="document-editor">
+                            <div class="document-editor__toolbar"></div>
+                            <div class="document-editor__editable-container">
+                                <div class="document-editor__editable">
+                                    <textarea class="form-control autogrow ck-editor" asp-for="Content"
+                                              style="overflow: hidden; word-wrap: break-word; resize: horizontal; height: 104px;"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <span asp-validation-for="Content" class="error text-danger small"></span>
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" asp-for="Id" value="@Model.Id" />
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-default waves-effect" data-dismiss="modal">بستن</button>
+            <button type="submit" class="btn btn-warning waves-effect waves-light">ویرایش</button>
+        </div>
+    </form>
+</div>

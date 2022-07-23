@@ -1,0 +1,15 @@
+﻿@model GM.Core.Application.Contracts.GuideAgg.GuideVm
+@{
+    ViewData["title"] = $"نمایش راهنمای {Model.Title}";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <p class="lead text-center">عنوان: @Model.Title  |  گروه: @Model.CategoryName  |  تاریخ ایجاد : @Model.CreationDate </p>
+    </div>
+    <div class="card-body">
+        @Html.Raw(Model.Content)
+    </div>
+</div>
+1401

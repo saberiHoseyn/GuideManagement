@@ -1,0 +1,17 @@
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GuideManagment.Core.Application.Contracts.deps.json
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GuideManagment.Core.Application.Contracts.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\ref\GuideManagment.Core.Application.Contracts.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GuideManagment.Core.Application.Contracts.pdb
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GuideManagment.Core.Domain.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GuideManagment.Core.Domain.pdb
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.csproj.AssemblyReference.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.AssemblyInfoInputs.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.AssemblyInfo.cs
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.csproj.CopyComplete
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\ref\GuideManagment.Core.Application.Contracts.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GuideManagment.Core.Application.Contracts.pdb

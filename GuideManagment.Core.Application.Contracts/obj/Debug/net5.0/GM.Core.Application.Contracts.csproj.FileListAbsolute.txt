@@ -1,0 +1,17 @@
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GM.Core.Application.Contracts.deps.json
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GM.Core.Application.Contracts.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\ref\GM.Core.Application.Contracts.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GM.Core.Application.Contracts.pdb
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GM.Core.Domain.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\Framework.pdb
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\bin\Debug\net5.0\GM.Core.Domain.pdb
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.AssemblyInfo.cs
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.csproj.CopyComplete
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\ref\GM.Core.Application.Contracts.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Application.Contracts\obj\Debug\net5.0\GM.Core.Application.Contracts.pdb

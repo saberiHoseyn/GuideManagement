@@ -1,0 +1,11 @@
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\bin\Debug\net5.0\Framework.deps.json
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\bin\Debug\net5.0\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\bin\Debug\net5.0\ref\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\bin\Debug\net5.0\Framework.pdb
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\ref\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\0_Framework\obj\Debug\net5.0\Framework.pdb

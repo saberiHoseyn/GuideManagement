@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application\\GuideManagment.Core.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj",
+        "projectName": "0_Framework",
+        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\GuideManagment.Core.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\GuideManagment.Core.Application.Contracts.csproj",
+        "projectName": "GuideManagment.Core.Application.Contracts",
+        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\GuideManagment.Core.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj"
+              },
+              "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj": {
+                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application\\GuideManagment.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application\\GuideManagment.Core.Application.csproj",
+        "projectName": "GuideManagment.Core.Application",
+        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application\\GuideManagment.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\GuideManagment.Core.Application.Contracts.csproj": {
+                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Application.Contracts\\GuideManagment.Core.Application.Contracts.csproj"
+              },
+              "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj": {
+                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj",
+        "projectName": "GuideManagment.Core.Domain",
+        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\GuideManagment.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GuideManagment.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\0_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

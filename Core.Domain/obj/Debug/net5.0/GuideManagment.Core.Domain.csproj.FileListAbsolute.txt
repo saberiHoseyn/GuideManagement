@@ -1,0 +1,15 @@
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GuideManagment.Core.Domain.deps.json
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GuideManagment.Core.Domain.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\ref\GuideManagment.Core.Domain.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GuideManagment.Core.Domain.pdb
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\0_Framework.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\0_Framework.pdb
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.csproj.AssemblyReference.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.AssemblyInfoInputs.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.AssemblyInfo.cs
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.csproj.CoreCompileInputs.cache
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.csproj.CopyComplete
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\ref\GuideManagment.Core.Domain.dll
+D:\Hoseyn\Projects\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GuideManagment.Core.Domain.pdb

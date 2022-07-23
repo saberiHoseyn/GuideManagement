@@ -1,0 +1,15 @@
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GM.Core.Domain.deps.json
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GM.Core.Domain.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\ref\GM.Core.Domain.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\GM.Core.Domain.pdb
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\Framework.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\bin\Debug\net5.0\Framework.pdb
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.AssemblyInfo.cs
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.csproj.CopyComplete
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\ref\GM.Core.Domain.dll
+C:\Users\samsung\Desktop\GuideManagment\GuideManagment.Core.Domain\obj\Debug\net5.0\GM.Core.Domain.pdb
