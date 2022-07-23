@@ -535,8 +535,8 @@
     },
     "Framework/1.0.0": {
       "type": "project",
-      "path": "../0_Framework/Framework.csproj",
-      "msbuildProject": "../0_Framework/Framework.csproj"
+      "path": "../Framework/Framework.csproj",
+      "msbuildProject": "../Framework/Framework.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -571,8 +571,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\Framework.csproj": {
-              "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\0_Framework\\Framework.csproj"
+            "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj": {
+              "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj"
             }
           }
         }

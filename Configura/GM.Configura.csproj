@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Application\GM.Core.Application.Concretes.csproj" />
+    <ProjectReference Include="..\Infrastructure.EFCore\GM.Infrastructure.EFCore.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Core.Domain", "Core.Domain\GM.Core.Domain.csproj", "{F5E44A07-0733-42EC-BB2E-6E03E447F970}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framework", "0_Framework\Framework.csproj", "{63BE2391-DB7B-4EAD-9B29-EF85FE0AF32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Framework", "Framework\Framework.csproj", "{63BE2391-DB7B-4EAD-9B29-EF85FE0AF32D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domin", "Domin", "{67AB284E-9E32-47B5-8302-B5772D9B1A17}"
 EndProject
@@ -13,21 +13,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure.EFCore", "In
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{99CA3C05-5BCC-4764-962B-1CB4AE20ADD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Core.Application.Contracts", "GuideManagment.Core.Application.Contracts\GM.Core.Application.Contracts.csproj", "{079BE40B-BAEA-426E-83DC-F56A59EFA9C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Core.Application.Contracts", "Core.Application.Contracts\GM.Core.Application.Contracts.csproj", "{079BE40B-BAEA-426E-83DC-F56A59EFA9C0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Core.Application.Concretes", "GuideManagment.Core.Application\GM.Core.Application.Concretes.csproj", "{FC02B29E-52E9-4A85-8660-2A2899E17111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Core.Application.Concretes", "Core.Application\GM.Core.Application.Concretes.csproj", "{FC02B29E-52E9-4A85-8660-2A2899E17111}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Configura", "GuideManagment.Configor\GM.Configura.csproj", "{6E238661-AC7E-43C5-8D63-CB832B93DEF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Configura", "Configura\GM.Configura.csproj", "{6E238661-AC7E-43C5-8D63-CB832B93DEF3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.EndPoint", "03.EndPoint", "{DC048BE5-B337-40B4-9E99-2B8034DDFA3B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Web.Ui", "ServiceHost\GM.Web.Ui.csproj", "{AB066610-89B1-45C4-A0F4-8CADCF15520C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Web.Ui", "EndPoint\GM.Web.Ui.csproj", "{AB066610-89B1-45C4-A0F4-8CADCF15520C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core", "01.Core", "{3FE55B69-7D67-4AFE-9421-0ED1B8024A18}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infrastructure", "02.Infrastructure", "{18106FF6-F532-49F5-A047-2D72BF69434A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Infrastructure.EFCore", "GuideManagment.Infrastructure.EFCore\GM.Infrastructure.EFCore.csproj", "{E0E4B802-5E4C-45D7-8E3E-91ADED7073EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GM.Infrastructure.EFCore", "Infrastructure.EFCore\GM.Infrastructure.EFCore.csproj", "{E0E4B802-5E4C-45D7-8E3E-91ADED7073EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Common", "00.Common", "{82D9A433-4849-449B-802A-DFAD7CFE198C}"
 EndProject
