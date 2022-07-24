@@ -64,7 +64,7 @@ namespace GM.Core.Application.Concretes
                 Content = guide.Content,
                 GuideCategoryId = guide.GuideCategoryId,
                 CategoryName = guide.GuideCategoryName,
-                CreationDate = guide.CreationDate.ToFarsi(),
+                CreationDate = guide.CreationDate.ToFarsiFull(),
                 IsRemoved = guide.IsRemoved
             };
         }
@@ -80,7 +80,7 @@ namespace GM.Core.Application.Concretes
                 Title = guide.Title,
                 Content = guide.Content,
                 CategoryName = guide.GuideCategoryName,
-                CreationDate = guide.CreationDate.ToFarsi(),
+                CreationDate = guide.CreationDate.ToFarsiFull(),
                 GuideCategoryId = guide.GuideCategoryId,
                 IsRemoved = guide.IsRemoved
             }));

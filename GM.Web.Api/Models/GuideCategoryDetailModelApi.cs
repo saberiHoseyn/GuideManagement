@@ -19,7 +19,7 @@ namespace GM.Web.Api.Models
         }
 
 
-        public GuideCategoryDetailModelApi Succedded( long? id, string name, string message = "عملیات با موفقیت انجام شد.")
+        public GuideCategoryDetailModelApi Succedded( long id, string name, string message = "عملیات با موفقیت انجام شد.")
         {
             IsExisted = true;
             Message = message;

@@ -41,10 +41,21 @@ function hideModal() {
     $("#MainModal").modal("hide");
 }
 
+
+
+//$(".navbar-nav .nav-item").on("click", function () {
+//    $(".nav").find(".active").removeClass("active");
+//    $(this).addClass("active");
+//});
+
+
+
 $(document).ready(function () {
     window.onhashchange = function () {
         SinglePage.LoadModal();
     };
+
+    
     $("#MainModal").on("shown.bs.modal",
         function () {
             window.location.hash = "##";

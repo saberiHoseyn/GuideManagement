@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MD.PersianDateTime.Standard;
+using System;
 using System.Globalization;
 
 namespace Framework.Application
@@ -22,16 +23,18 @@ namespace Framework.Application
         public static string ToFarsi(this DateTime date)
         {
             if (date == new DateTime()) return "";
-            var pc = new PersianCalendar();
-            return $"{pc.GetYear(date)}/{pc.GetMonth(date):00}/{pc.GetDayOfMonth(date):00}";
+            var pc = new PersianDateTime(date);
+            var str = pc.ToShortDateTimeString().ToString();
+            return str;
         }
 
 
         public static string ToFarsiFull(this DateTime date)
         {
-            var pc = new PersianCalendar();
-            return
-                $"{pc.GetYear(date)}/{pc.GetMonth(date):00}/{pc.GetDayOfMonth(date):00} {date.Hour:00}:{date.Minute:00}:{date.Second:00}";
+            var pc = new PersianDateTime(date);
+            var str = pc.ToLongDateTimeString().ToString();
+
+            return str;
         }
     }
 }

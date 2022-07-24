@@ -69,3 +69,4 @@ D:\Hoseyn\Projects\GuideManagment\GM.Web.Api\bin\Debug\net5.0\GM.Core.Applicatio
 D:\Hoseyn\Projects\GuideManagment\GM.Web.Api\bin\Debug\net5.0\Framework.pdb
 D:\Hoseyn\Projects\GuideManagment\GM.Web.Api\bin\Debug\net5.0\GM.Core.Domain.pdb
 D:\Hoseyn\Projects\GuideManagment\GM.Web.Api\bin\Debug\net5.0\GM.Infrastructure.EFCore.pdb
+D:\Hoseyn\Projects\GuideManagment\GM.Web.Api\bin\Debug\net5.0\MD.PersianDateTime.Standard.dll

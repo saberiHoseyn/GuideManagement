@@ -36,6 +36,7 @@
           "GM.Configura": "1.0.0",
           "GM.Core.Application.Concretes": "1.0.0",
           "GM.Core.Application.Contracts": "1.0.0",
+          "MD.PersianDateTime.Standard": "2.3.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -323,6 +324,17 @@
         },
         "compile": {
           "GM.Web.Ui.dll": {}
+        }
+      },
+      "MD.PersianDateTime.Standard/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/MD.PersianDateTime.Standard.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/MD.PersianDateTime.Standard.dll": {}
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -1297,6 +1309,7 @@
       },
       "Framework/1.0.0": {
         "dependencies": {
+          "MD.PersianDateTime.Standard": "2.3.0",
           "Microsoft.EntityFrameworkCore": "5.0.17"
         },
         "runtime": {
@@ -3059,6 +3072,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MD.PersianDateTime.Standard/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D3zkAHZK8vcHpa+/FW84X3GMkukHaVCqQ93PoZl5iRjlnPIDIW5JJ38+Fd+IQQKEdXjJS4gpQlTC8uFTdGppaw==",
+      "path": "md.persiandatetime.standard/2.3.0",
+      "hashPath": "md.persiandatetime.standard.2.3.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

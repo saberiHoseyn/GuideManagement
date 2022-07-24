@@ -176,3 +176,4 @@ D:\Hoseyn\Projects\GuideManagment\EndPoint\obj\Debug\net5.0\GM.Web.Ui.dll
 D:\Hoseyn\Projects\GuideManagment\EndPoint\obj\Debug\net5.0\ref\GM.Web.Ui.dll
 D:\Hoseyn\Projects\GuideManagment\EndPoint\obj\Debug\net5.0\GM.Web.Ui.pdb
 D:\Hoseyn\Projects\GuideManagment\EndPoint\obj\Debug\net5.0\GM.Web.Ui.genruntimeconfig.cache
+D:\Hoseyn\Projects\GuideManagment\EndPoint\bin\Debug\net5.0\MD.PersianDateTime.Standard.dll

@@ -23,13 +23,13 @@ namespace GM.Web.Api.Models
         }
 
 
-        public GuideDetailModelApi Succedded( long? id,
+        public GuideDetailModelApi Succedded( long id,
             string title,
             string content,
             string creationDate,
-            long? guideCategoryId,
+            long guideCategoryId,
             string categoryName,
-            bool? isRemoved,
+            bool isRemoved,
             string message = "عملیات با موفقیت انجام شد.")
         {
             IsExisted = true;

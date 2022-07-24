@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yn7hoQsnRy5AD66uduGEnYaq9/+4Lcx7dJ3zbMoqIy4roUjo0odClb/8qt6/CuYKHFZlynrxkF/gvi+6k4l68A==",
+  "dgSpecHash": "3JoBRBzE96eZpYeJ6GOkmAzDvdN8KD8JGQA6io5rDSp5U4yp9mutyi4Qoh/N2N8l4d/YYspWVhNHQsDmqhvEyw==",
   "success": true,
   "projectFilePath": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\samsung\\.nuget\\packages\\md.persiandatetime.standard\\2.3.0\\md.persiandatetime.standard.2.3.0.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

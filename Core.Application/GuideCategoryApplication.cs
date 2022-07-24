@@ -74,7 +74,7 @@ namespace GM.Core.Application.Concretes
             {
                 Id = x.Id,
                 Name = x.Name,
-                CreationDate = x.CreationDate.ToFarsi(),
+                CreationDate = x.CreationDate.ToFarsiFull(),
                 IsRemoved = x.IsRemoved
             }).ToList();
         }
