@@ -10,6 +10,8 @@ namespace GM.Core.Application.Contracts.GuideCategoryAgg
         OperationResult Remove(long id);
         OperationResult Restor(long id);
         OperationResult Delete(long id);
+        OperationResult IsExisted(long id);
+        OperationResult IsActivate(long id);
         List<GuideCategoryVm> GetGuideCategories();
         EditGuideCategoryModel GetDetaile(long id);
     }

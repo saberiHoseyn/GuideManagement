@@ -63,6 +63,7 @@ namespace GM.Core.Application.Concretes
             {
                 Id = category.Id,
                 Name = category.Name,
+                
             };
         }
 
@@ -76,6 +77,24 @@ namespace GM.Core.Application.Concretes
                 CreationDate = x.CreationDate.ToFarsi(),
                 IsRemoved = x.IsRemoved
             }).ToList();
+        }
+
+        public OperationResult IsActivate(long id)
+        {
+            var operetion = new OperationResult();
+            var guide = guideCategoryRepository.Get(id);
+            if(guide.IsRemoved)
+                return operetion.Failed(ApplicationMessages.RecordActivated);
+            else
+                return operetion.Succedded(ApplicationMessages.RecordDeactivated);
+        }
+
+        public OperationResult IsExisted(long id)
+        {
+            var operetion = new OperationResult();
+            if (!guideCategoryRepository.Exists(c => c.Id == id))
+                return operetion.Failed(ApplicationMessages.RecordNotFound);
+            return operetion.Succedded();
         }
 
         public OperationResult Remove(long id)

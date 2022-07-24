@@ -20,3 +20,4 @@ D:\Hoseyn\Projects\GuideManagment\Framework\obj\Debug\net5.0\Framework.csproj.Co
 D:\Hoseyn\Projects\GuideManagment\Framework\obj\Debug\net5.0\Framework.dll
 D:\Hoseyn\Projects\GuideManagment\Framework\obj\Debug\net5.0\ref\Framework.dll
 D:\Hoseyn\Projects\GuideManagment\Framework\obj\Debug\net5.0\Framework.pdb
+D:\Hoseyn\Projects\GuideManagment\Framework\obj\Debug\net5.0\Framework.csproj.AssemblyReference.cache

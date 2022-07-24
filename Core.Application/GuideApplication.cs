@@ -111,5 +111,38 @@ namespace GM.Core.Application.Concretes
             guideRepository.SaveChanges();
             return operation.Succedded();
         }
+
+        public OperationResult IsExisted(long id)
+        {
+            var operetion = new OperationResult();
+            if (!guideRepository.Exists(c => c.Id == id))
+                return operetion.Failed(ApplicationMessages.RecordNotFound);
+            else
+                return operetion.Succedded();
+        }
+
+        public OperationResult ToggleStatus(long id)
+        {
+            var operation = new OperationResult();
+            var guide = guideRepository.Get(id);
+
+            if (guide == null)
+                return operation.Failed(ApplicationMessages.RecordNotFound);
+
+            if (guide.IsRemoved)
+            {
+                guide.Restor();
+                guideRepository.SaveChanges();
+                operation.Succedded(ApplicationMessages.RecordActivated);
+            }
+            else
+            {
+                guide.Remove();
+                guideRepository.SaveChanges();
+                operation.Succedded(ApplicationMessages.RecordDeactivated);
+            }
+
+            return operation;
+        }
     }
 }
