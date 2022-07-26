@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQxQQHCRaQGoS4RkRL53EiM0Izvxl0a1Imsj+8IF36coS5ctH4N6nLjHSErudeoBJIjQ80NpTkkwkcQ5FRtDGA==",
+  "dgSpecHash": "1Mmxfi9F1NfSfMZrswXNGVJ2AwVgek8Yf35EMjPcwbj3aRaBz/tIcJgO6urv32vylRhTJbcflwIgPJ8ENvP3HA==",
   "success": true,
-  "projectFilePath": "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsung\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\md.persiandatetime.standard\\2.3.0\\md.persiandatetime.standard.2.3.0.nupkg.sha512",

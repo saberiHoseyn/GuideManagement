@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj": {}
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj": {}
   },
   "projects": {
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj",
         "projectName": "GM.Configura",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj"
               },
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj",
         "projectName": "GM.Core.Application.Contracts",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
               },
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj",
         "projectName": "GM.Core.Application.Concretes",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -150,11 +150,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj"
               },
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj",
         "projectName": "GM.Core.Domain",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,8 +211,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj",
         "projectName": "Framework",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -309,14 +309,14 @@
         }
       }
     },
-    "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj": {
+    "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
         "projectName": "GM.Infrastructure.EFCore",
-        "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
+        "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\GM.Infrastructure.EFCore.csproj",
         "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Infrastructure.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -333,8 +333,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
-                "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
+              "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Domain\\GM.Core.Domain.csproj"
               }
             }
           }

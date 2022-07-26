@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3JoBRBzE96eZpYeJ6GOkmAzDvdN8KD8JGQA6io5rDSp5U4yp9mutyi4Qoh/N2N8l4d/YYspWVhNHQsDmqhvEyw==",
+  "dgSpecHash": "2kZm66MyTL57PMBirDwpKPMHg42zoUO5dMPJvc4IulJXj9J9RE4/4fpuEUGckSK3qMqq/aHBh7M9suCjCvkwdA==",
   "success": true,
-  "projectFilePath": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj",
+  "projectFilePath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsung\\.nuget\\packages\\md.persiandatetime.standard\\2.3.0\\md.persiandatetime.standard.2.3.0.nupkg.sha512",
     "C:\\Users\\samsung\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

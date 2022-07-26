@@ -15,7 +15,7 @@
 </head>
 <body>
     <header>
-        <nav id="navbar" class="navbar navbar-expand-sm navbar-toggleable-sm bg-primary navbar-dark border-bottom box-shadow mb-3">
+        <nav id="navigation" class="navbar navbar-expand-sm bg-primary navbar-dark border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-controller="Guide" asp-action="Index"><i class="bi bi-app"></i></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -23,12 +23,12 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item active">
+                    <ul class="navbar-nav">
+                        <li class="nav-item h4 active">
                             <a class="nav-link" asp-controller="Guide" asp-action="Index" aria-current="page">مدیریت راهنما</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="GuideCategory" asp-action="Index" aria-current="page" >مدیریت گروه راهنما</a>
+                        <li class="nav-item h4">
+                            <a class="nav-link" asp-controller="GuideCategory" asp-action="Index" aria-current="page">مدیریت گروه راهنما</a>
                         </li>
                     </ul>
                 </div>
@@ -61,10 +61,11 @@
     </div>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js"></script>
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
     <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
     <script src="~/lib/ckeditor5-build-classic/ckeditor.js"></script>
+    <script src="~/js/nav.js"></script>
+    <script src="~/js/site.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

@@ -6027,11 +6027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\GM.Web.Api\\GM.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\GM.Web.Api\\GM.Web.Api.csproj",
       "projectName": "GM.Web.Api",
-      "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GM.Web.Api\\GM.Web.Api.csproj",
+      "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\GM.Web.Api\\GM.Web.Api.csproj",
       "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-      "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\GM.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\GM.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6048,14 +6048,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj": {
-              "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Configura\\GM.Configura.csproj"
+            "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj": {
+              "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Configura\\GM.Configura.csproj"
             },
-            "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
-              "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj"
+            "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj": {
+              "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application.Contracts\\GM.Core.Application.Contracts.csproj"
             },
-            "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
-              "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj"
+            "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj": {
+              "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Core.Application\\GM.Core.Application.Concretes.csproj"
             }
           }
         }

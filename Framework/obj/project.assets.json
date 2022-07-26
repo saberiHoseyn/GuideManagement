@@ -556,11 +556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj",
+      "projectUniqueName": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj",
       "projectName": "Framework",
-      "projectPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\Framework.csproj",
+      "projectPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\Framework.csproj",
       "packagesPath": "C:\\Users\\samsung\\.nuget\\packages\\",
-      "outputPath": "D:\\Hoseyn\\Projects\\GuideManagment\\Framework\\obj\\",
+      "outputPath": "C:\\Users\\samsung\\Desktop\\GuideManagment\\Framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
